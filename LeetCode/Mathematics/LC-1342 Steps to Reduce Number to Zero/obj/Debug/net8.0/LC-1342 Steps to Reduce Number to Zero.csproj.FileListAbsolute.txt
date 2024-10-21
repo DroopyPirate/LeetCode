@@ -1,0 +1,15 @@
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1342 Steps to Reduce Number to Zero\bin\Debug\net8.0\LC-1342 Steps to Reduce Number to Zero.exe
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1342 Steps to Reduce Number to Zero\bin\Debug\net8.0\LC-1342 Steps to Reduce Number to Zero.deps.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1342 Steps to Reduce Number to Zero\bin\Debug\net8.0\LC-1342 Steps to Reduce Number to Zero.runtimeconfig.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1342 Steps to Reduce Number to Zero\bin\Debug\net8.0\LC-1342 Steps to Reduce Number to Zero.dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1342 Steps to Reduce Number to Zero\bin\Debug\net8.0\LC-1342 Steps to Reduce Number to Zero.pdb
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1342 Steps to Reduce Number to Zero\obj\Debug\net8.0\LC-1342 Steps to Reduce Number to Zero.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1342 Steps to Reduce Number to Zero\obj\Debug\net8.0\LC-1342 Steps to Reduce Number to Zero.AssemblyInfoInputs.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1342 Steps to Reduce Number to Zero\obj\Debug\net8.0\LC-1342 Steps to Reduce Number to Zero.AssemblyInfo.cs
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1342 Steps to Reduce Number to Zero\obj\Debug\net8.0\LC-1342 Steps to Reduce Number to Zero.csproj.CoreCompileInputs.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1342 Steps to Reduce Number to Zero\obj\Debug\net8.0\LC-1342 Steps to Reduce Number to Zero.sourcelink.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1342 Steps to Reduce Number to Zero\obj\Debug\net8.0\LC-1342 Steps to Reduce Number to Zero.dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1342 Steps to Reduce Number to Zero\obj\Debug\net8.0\refint\LC-1342 Steps to Reduce Number to Zero.dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1342 Steps to Reduce Number to Zero\obj\Debug\net8.0\LC-1342 Steps to Reduce Number to Zero.pdb
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1342 Steps to Reduce Number to Zero\obj\Debug\net8.0\LC-1342 Steps to Reduce Number to Zero.genruntimeconfig.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1342 Steps to Reduce Number to Zero\obj\Debug\net8.0\ref\LC-1342 Steps to Reduce Number to Zero.dll

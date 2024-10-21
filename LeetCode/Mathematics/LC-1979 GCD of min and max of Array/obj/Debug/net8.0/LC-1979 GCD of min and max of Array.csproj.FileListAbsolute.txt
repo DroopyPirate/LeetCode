@@ -1,0 +1,15 @@
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1979 GCD of min and max of Array\bin\Debug\net8.0\LC-1979 GCD of min and max of Array.exe
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1979 GCD of min and max of Array\bin\Debug\net8.0\LC-1979 GCD of min and max of Array.deps.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1979 GCD of min and max of Array\bin\Debug\net8.0\LC-1979 GCD of min and max of Array.runtimeconfig.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1979 GCD of min and max of Array\bin\Debug\net8.0\LC-1979 GCD of min and max of Array.dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1979 GCD of min and max of Array\bin\Debug\net8.0\LC-1979 GCD of min and max of Array.pdb
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1979 GCD of min and max of Array\obj\Debug\net8.0\LC-1979 GCD of min and max of Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1979 GCD of min and max of Array\obj\Debug\net8.0\LC-1979 GCD of min and max of Array.AssemblyInfoInputs.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1979 GCD of min and max of Array\obj\Debug\net8.0\LC-1979 GCD of min and max of Array.AssemblyInfo.cs
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1979 GCD of min and max of Array\obj\Debug\net8.0\LC-1979 GCD of min and max of Array.csproj.CoreCompileInputs.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1979 GCD of min and max of Array\obj\Debug\net8.0\LC-1979 GCD of min and max of Array.sourcelink.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1979 GCD of min and max of Array\obj\Debug\net8.0\LC-1979 GCD of min and max of Array.dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1979 GCD of min and max of Array\obj\Debug\net8.0\refint\LC-1979 GCD of min and max of Array.dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1979 GCD of min and max of Array\obj\Debug\net8.0\LC-1979 GCD of min and max of Array.pdb
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1979 GCD of min and max of Array\obj\Debug\net8.0\LC-1979 GCD of min and max of Array.genruntimeconfig.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1979 GCD of min and max of Array\obj\Debug\net8.0\ref\LC-1979 GCD of min and max of Array.dll

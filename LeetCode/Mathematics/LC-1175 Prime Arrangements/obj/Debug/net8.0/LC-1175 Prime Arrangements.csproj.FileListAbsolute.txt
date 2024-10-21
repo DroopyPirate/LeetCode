@@ -1,0 +1,15 @@
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1175 Prime Arrangements\bin\Debug\net8.0\LC-1175 Prime Arrangements.exe
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1175 Prime Arrangements\bin\Debug\net8.0\LC-1175 Prime Arrangements.deps.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1175 Prime Arrangements\bin\Debug\net8.0\LC-1175 Prime Arrangements.runtimeconfig.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1175 Prime Arrangements\bin\Debug\net8.0\LC-1175 Prime Arrangements.dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1175 Prime Arrangements\bin\Debug\net8.0\LC-1175 Prime Arrangements.pdb
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1175 Prime Arrangements\obj\Debug\net8.0\LC-1175 Prime Arrangements.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1175 Prime Arrangements\obj\Debug\net8.0\LC-1175 Prime Arrangements.AssemblyInfoInputs.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1175 Prime Arrangements\obj\Debug\net8.0\LC-1175 Prime Arrangements.AssemblyInfo.cs
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1175 Prime Arrangements\obj\Debug\net8.0\LC-1175 Prime Arrangements.csproj.CoreCompileInputs.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1175 Prime Arrangements\obj\Debug\net8.0\LC-1175 Prime Arrangements.sourcelink.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1175 Prime Arrangements\obj\Debug\net8.0\LC-1175 Prime Arrangements.dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1175 Prime Arrangements\obj\Debug\net8.0\refint\LC-1175 Prime Arrangements.dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1175 Prime Arrangements\obj\Debug\net8.0\LC-1175 Prime Arrangements.pdb
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1175 Prime Arrangements\obj\Debug\net8.0\LC-1175 Prime Arrangements.genruntimeconfig.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-1175 Prime Arrangements\obj\Debug\net8.0\ref\LC-1175 Prime Arrangements.dll
