@@ -1,0 +1,15 @@
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-263 Ugly Number (Prime factors)\bin\Debug\net8.0\LC-263 Ugly Number (Prime factors).exe
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-263 Ugly Number (Prime factors)\bin\Debug\net8.0\LC-263 Ugly Number (Prime factors).deps.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-263 Ugly Number (Prime factors)\bin\Debug\net8.0\LC-263 Ugly Number (Prime factors).runtimeconfig.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-263 Ugly Number (Prime factors)\bin\Debug\net8.0\LC-263 Ugly Number (Prime factors).dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-263 Ugly Number (Prime factors)\bin\Debug\net8.0\LC-263 Ugly Number (Prime factors).pdb
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-263 Ugly Number (Prime factors)\obj\Debug\net8.0\LC-263 Ugly Number (Prime factors).GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-263 Ugly Number (Prime factors)\obj\Debug\net8.0\LC-263 Ugly Number (Prime factors).AssemblyInfoInputs.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-263 Ugly Number (Prime factors)\obj\Debug\net8.0\LC-263 Ugly Number (Prime factors).AssemblyInfo.cs
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-263 Ugly Number (Prime factors)\obj\Debug\net8.0\LC-263 Ugly Number (Prime factors).csproj.CoreCompileInputs.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-263 Ugly Number (Prime factors)\obj\Debug\net8.0\LC-263 Ugly Number (Prime factors).sourcelink.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-263 Ugly Number (Prime factors)\obj\Debug\net8.0\LC-263 Ugly Number (Prime factors).dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-263 Ugly Number (Prime factors)\obj\Debug\net8.0\refint\LC-263 Ugly Number (Prime factors).dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-263 Ugly Number (Prime factors)\obj\Debug\net8.0\LC-263 Ugly Number (Prime factors).pdb
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-263 Ugly Number (Prime factors)\obj\Debug\net8.0\LC-263 Ugly Number (Prime factors).genruntimeconfig.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-263 Ugly Number (Prime factors)\obj\Debug\net8.0\ref\LC-263 Ugly Number (Prime factors).dll

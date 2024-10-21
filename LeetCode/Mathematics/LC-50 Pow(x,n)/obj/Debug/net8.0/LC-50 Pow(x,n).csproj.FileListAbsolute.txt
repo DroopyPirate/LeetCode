@@ -1,0 +1,15 @@
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-50 Pow(x,n)\bin\Debug\net8.0\LC-50 Pow(x,n).exe
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-50 Pow(x,n)\bin\Debug\net8.0\LC-50 Pow(x,n).deps.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-50 Pow(x,n)\bin\Debug\net8.0\LC-50 Pow(x,n).runtimeconfig.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-50 Pow(x,n)\bin\Debug\net8.0\LC-50 Pow(x,n).dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-50 Pow(x,n)\bin\Debug\net8.0\LC-50 Pow(x,n).pdb
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-50 Pow(x,n)\obj\Debug\net8.0\LC-50 Pow(x,n).GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-50 Pow(x,n)\obj\Debug\net8.0\LC-50 Pow(x,n).AssemblyInfoInputs.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-50 Pow(x,n)\obj\Debug\net8.0\LC-50 Pow(x,n).AssemblyInfo.cs
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-50 Pow(x,n)\obj\Debug\net8.0\LC-50 Pow(x,n).csproj.CoreCompileInputs.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-50 Pow(x,n)\obj\Debug\net8.0\LC-50 Pow(x,n).sourcelink.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-50 Pow(x,n)\obj\Debug\net8.0\LC-50 Pow(x,n).dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-50 Pow(x,n)\obj\Debug\net8.0\refint\LC-50 Pow(x,n).dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-50 Pow(x,n)\obj\Debug\net8.0\LC-50 Pow(x,n).pdb
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-50 Pow(x,n)\obj\Debug\net8.0\LC-50 Pow(x,n).genruntimeconfig.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-50 Pow(x,n)\obj\Debug\net8.0\ref\LC-50 Pow(x,n).dll

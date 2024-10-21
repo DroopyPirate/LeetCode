@@ -1,0 +1,15 @@
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-231 Power of Two\bin\Debug\net8.0\LC-231 Power of Two.exe
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-231 Power of Two\bin\Debug\net8.0\LC-231 Power of Two.deps.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-231 Power of Two\bin\Debug\net8.0\LC-231 Power of Two.runtimeconfig.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-231 Power of Two\bin\Debug\net8.0\LC-231 Power of Two.dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-231 Power of Two\bin\Debug\net8.0\LC-231 Power of Two.pdb
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-231 Power of Two\obj\Debug\net8.0\LC-231 Power of Two.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-231 Power of Two\obj\Debug\net8.0\LC-231 Power of Two.AssemblyInfoInputs.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-231 Power of Two\obj\Debug\net8.0\LC-231 Power of Two.AssemblyInfo.cs
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-231 Power of Two\obj\Debug\net8.0\LC-231 Power of Two.csproj.CoreCompileInputs.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-231 Power of Two\obj\Debug\net8.0\LC-231 Power of Two.sourcelink.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-231 Power of Two\obj\Debug\net8.0\LC-231 Power of Two.dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-231 Power of Two\obj\Debug\net8.0\refint\LC-231 Power of Two.dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-231 Power of Two\obj\Debug\net8.0\LC-231 Power of Two.pdb
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-231 Power of Two\obj\Debug\net8.0\LC-231 Power of Two.genruntimeconfig.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-231 Power of Two\obj\Debug\net8.0\ref\LC-231 Power of Two.dll

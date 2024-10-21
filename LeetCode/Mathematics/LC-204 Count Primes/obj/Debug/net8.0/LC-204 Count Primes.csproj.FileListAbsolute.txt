@@ -1,0 +1,15 @@
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-204 Count Primes\bin\Debug\net8.0\LC-204 Count Primes.exe
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-204 Count Primes\bin\Debug\net8.0\LC-204 Count Primes.deps.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-204 Count Primes\bin\Debug\net8.0\LC-204 Count Primes.runtimeconfig.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-204 Count Primes\bin\Debug\net8.0\LC-204 Count Primes.dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-204 Count Primes\bin\Debug\net8.0\LC-204 Count Primes.pdb
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-204 Count Primes\obj\Debug\net8.0\LC-204 Count Primes.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-204 Count Primes\obj\Debug\net8.0\LC-204 Count Primes.AssemblyInfoInputs.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-204 Count Primes\obj\Debug\net8.0\LC-204 Count Primes.AssemblyInfo.cs
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-204 Count Primes\obj\Debug\net8.0\LC-204 Count Primes.csproj.CoreCompileInputs.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-204 Count Primes\obj\Debug\net8.0\LC-204 Count Primes.sourcelink.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-204 Count Primes\obj\Debug\net8.0\LC-204 Count Primes.dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-204 Count Primes\obj\Debug\net8.0\refint\LC-204 Count Primes.dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-204 Count Primes\obj\Debug\net8.0\LC-204 Count Primes.pdb
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-204 Count Primes\obj\Debug\net8.0\LC-204 Count Primes.genruntimeconfig.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-204 Count Primes\obj\Debug\net8.0\ref\LC-204 Count Primes.dll
