@@ -1,0 +1,15 @@
+D:\LeetCode\LeetCode\LeetCode\Mathematics\bin\Debug\net8.0\Mathematics.exe
+D:\LeetCode\LeetCode\LeetCode\Mathematics\bin\Debug\net8.0\Mathematics.deps.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\bin\Debug\net8.0\Mathematics.runtimeconfig.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\bin\Debug\net8.0\Mathematics.dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\bin\Debug\net8.0\Mathematics.pdb
+D:\LeetCode\LeetCode\LeetCode\Mathematics\obj\Debug\net8.0\Mathematics.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\LeetCode\LeetCode\Mathematics\obj\Debug\net8.0\Mathematics.AssemblyInfoInputs.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\obj\Debug\net8.0\Mathematics.AssemblyInfo.cs
+D:\LeetCode\LeetCode\LeetCode\Mathematics\obj\Debug\net8.0\Mathematics.csproj.CoreCompileInputs.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\obj\Debug\net8.0\Mathematics.sourcelink.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\obj\Debug\net8.0\Mathematics.dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\obj\Debug\net8.0\refint\Mathematics.dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\obj\Debug\net8.0\Mathematics.pdb
+D:\LeetCode\LeetCode\LeetCode\Mathematics\obj\Debug\net8.0\Mathematics.genruntimeconfig.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\obj\Debug\net8.0\ref\Mathematics.dll
