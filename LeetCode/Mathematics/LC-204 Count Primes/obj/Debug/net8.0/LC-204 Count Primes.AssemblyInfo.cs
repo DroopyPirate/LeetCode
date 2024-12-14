@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LC-204 Count Primes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e01e7391710484ca4845409dc2dd8694b4ab3b91")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9ee815bb1e87524764e12b9b560afa93ef3fa6d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LC-204 Count Primes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LC-204 Count Primes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
