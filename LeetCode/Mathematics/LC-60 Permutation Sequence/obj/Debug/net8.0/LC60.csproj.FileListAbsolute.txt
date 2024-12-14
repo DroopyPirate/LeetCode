@@ -1,0 +1,15 @@
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-60 Permutation Sequence\bin\Debug\net8.0\LC60.exe
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-60 Permutation Sequence\bin\Debug\net8.0\LC60.deps.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-60 Permutation Sequence\bin\Debug\net8.0\LC60.runtimeconfig.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-60 Permutation Sequence\bin\Debug\net8.0\LC60.dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-60 Permutation Sequence\bin\Debug\net8.0\LC60.pdb
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-60 Permutation Sequence\obj\Debug\net8.0\LC60.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-60 Permutation Sequence\obj\Debug\net8.0\LC60.AssemblyInfoInputs.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-60 Permutation Sequence\obj\Debug\net8.0\LC60.AssemblyInfo.cs
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-60 Permutation Sequence\obj\Debug\net8.0\LC60.csproj.CoreCompileInputs.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-60 Permutation Sequence\obj\Debug\net8.0\LC60.sourcelink.json
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-60 Permutation Sequence\obj\Debug\net8.0\LC60.dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-60 Permutation Sequence\obj\Debug\net8.0\refint\LC60.dll
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-60 Permutation Sequence\obj\Debug\net8.0\LC60.pdb
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-60 Permutation Sequence\obj\Debug\net8.0\LC60.genruntimeconfig.cache
+D:\LeetCode\LeetCode\LeetCode\Mathematics\LC-60 Permutation Sequence\obj\Debug\net8.0\ref\LC60.dll
