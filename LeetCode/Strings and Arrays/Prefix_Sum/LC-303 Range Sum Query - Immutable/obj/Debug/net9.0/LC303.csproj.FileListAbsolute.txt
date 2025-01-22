@@ -1,0 +1,15 @@
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-303 Range Sum Query - Immutable\bin\Debug\net9.0\LC303.exe
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-303 Range Sum Query - Immutable\bin\Debug\net9.0\LC303.deps.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-303 Range Sum Query - Immutable\bin\Debug\net9.0\LC303.runtimeconfig.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-303 Range Sum Query - Immutable\bin\Debug\net9.0\LC303.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-303 Range Sum Query - Immutable\bin\Debug\net9.0\LC303.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-303 Range Sum Query - Immutable\obj\Debug\net9.0\LC303.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-303 Range Sum Query - Immutable\obj\Debug\net9.0\LC303.AssemblyInfoInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-303 Range Sum Query - Immutable\obj\Debug\net9.0\LC303.AssemblyInfo.cs
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-303 Range Sum Query - Immutable\obj\Debug\net9.0\LC303.csproj.CoreCompileInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-303 Range Sum Query - Immutable\obj\Debug\net9.0\LC303.sourcelink.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-303 Range Sum Query - Immutable\obj\Debug\net9.0\LC303.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-303 Range Sum Query - Immutable\obj\Debug\net9.0\refint\LC303.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-303 Range Sum Query - Immutable\obj\Debug\net9.0\LC303.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-303 Range Sum Query - Immutable\obj\Debug\net9.0\LC303.genruntimeconfig.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-303 Range Sum Query - Immutable\obj\Debug\net9.0\ref\LC303.dll
