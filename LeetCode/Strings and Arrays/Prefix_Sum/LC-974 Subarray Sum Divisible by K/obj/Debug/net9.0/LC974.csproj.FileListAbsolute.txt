@@ -1,0 +1,15 @@
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-974 Subarray Sum Divisible by K\bin\Debug\net9.0\LC974.exe
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-974 Subarray Sum Divisible by K\bin\Debug\net9.0\LC974.deps.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-974 Subarray Sum Divisible by K\bin\Debug\net9.0\LC974.runtimeconfig.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-974 Subarray Sum Divisible by K\bin\Debug\net9.0\LC974.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-974 Subarray Sum Divisible by K\bin\Debug\net9.0\LC974.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-974 Subarray Sum Divisible by K\obj\Debug\net9.0\LC974.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-974 Subarray Sum Divisible by K\obj\Debug\net9.0\LC974.AssemblyInfoInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-974 Subarray Sum Divisible by K\obj\Debug\net9.0\LC974.AssemblyInfo.cs
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-974 Subarray Sum Divisible by K\obj\Debug\net9.0\LC974.csproj.CoreCompileInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-974 Subarray Sum Divisible by K\obj\Debug\net9.0\LC974.sourcelink.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-974 Subarray Sum Divisible by K\obj\Debug\net9.0\LC974.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-974 Subarray Sum Divisible by K\obj\Debug\net9.0\refint\LC974.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-974 Subarray Sum Divisible by K\obj\Debug\net9.0\LC974.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-974 Subarray Sum Divisible by K\obj\Debug\net9.0\LC974.genruntimeconfig.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Prefix_Sum\LC-974 Subarray Sum Divisible by K\obj\Debug\net9.0\ref\LC974.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LC-1175 Prime Arrangements")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9ee815bb1e87524764e12b9b560afa93ef3fa6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68450ee3e7167b1b96ff3e9507dfdeefbdc3a37b")]
 [assembly: System.Reflection.AssemblyProductAttribute("LC-1175 Prime Arrangements")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LC-1175 Prime Arrangements")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
