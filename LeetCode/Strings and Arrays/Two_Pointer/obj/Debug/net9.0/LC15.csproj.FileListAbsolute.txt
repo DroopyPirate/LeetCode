@@ -1,0 +1,15 @@
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\bin\Debug\net9.0\LC15.exe
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\bin\Debug\net9.0\LC15.deps.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\bin\Debug\net9.0\LC15.runtimeconfig.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\bin\Debug\net9.0\LC15.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\bin\Debug\net9.0\LC15.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\obj\Debug\net9.0\LC15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\obj\Debug\net9.0\LC15.AssemblyInfoInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\obj\Debug\net9.0\LC15.AssemblyInfo.cs
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\obj\Debug\net9.0\LC15.csproj.CoreCompileInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\obj\Debug\net9.0\LC15.sourcelink.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\obj\Debug\net9.0\LC15.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\obj\Debug\net9.0\refint\LC15.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\obj\Debug\net9.0\LC15.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\obj\Debug\net9.0\LC15.genruntimeconfig.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\obj\Debug\net9.0\ref\LC15.dll
