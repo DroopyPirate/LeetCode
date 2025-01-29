@@ -15,9 +15,6 @@ This repository is organized by topics, subtopics, and individual problem soluti
 - **Solutions**: Each problem folder contains Java (`LC567.java`) and C# (`Program.cs`) implementations.
 - **LeetCode Question Image**: Each problem folder includes an image (`LC567.png`) of the problem statement for quick reference.
 
-This structure ensures **clarity, scalability, and easy access** to solutions. 🚀  
-
-Let me know if you'd like further refinements!
 
 ## **Topics Covered**  
 ✔ Mathematics  
