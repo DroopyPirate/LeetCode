@@ -26,5 +26,5 @@ Let me know if you'd like further refinements!
 
 ## **Contact & Follow Me**  
 - **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/prit-vanjara/)  
-- **GitHub**: [GitHub Profile](https://github.com/DroopyPirate/LeetCode/) 
+- **GitHub**: [GitHub Profile](https://github.com/DroopyPirate/) 
 
