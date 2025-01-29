@@ -1,0 +1,15 @@
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-1248 Count Number of Nice Subarrays\bin\Debug\net9.0\LC1248.exe
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-1248 Count Number of Nice Subarrays\bin\Debug\net9.0\LC1248.deps.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-1248 Count Number of Nice Subarrays\bin\Debug\net9.0\LC1248.runtimeconfig.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-1248 Count Number of Nice Subarrays\bin\Debug\net9.0\LC1248.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-1248 Count Number of Nice Subarrays\bin\Debug\net9.0\LC1248.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-1248 Count Number of Nice Subarrays\obj\Debug\net9.0\LC1248.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-1248 Count Number of Nice Subarrays\obj\Debug\net9.0\LC1248.AssemblyInfoInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-1248 Count Number of Nice Subarrays\obj\Debug\net9.0\LC1248.AssemblyInfo.cs
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-1248 Count Number of Nice Subarrays\obj\Debug\net9.0\LC1248.csproj.CoreCompileInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-1248 Count Number of Nice Subarrays\obj\Debug\net9.0\LC1248.sourcelink.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-1248 Count Number of Nice Subarrays\obj\Debug\net9.0\LC1248.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-1248 Count Number of Nice Subarrays\obj\Debug\net9.0\refint\LC1248.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-1248 Count Number of Nice Subarrays\obj\Debug\net9.0\LC1248.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-1248 Count Number of Nice Subarrays\obj\Debug\net9.0\LC1248.genruntimeconfig.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-1248 Count Number of Nice Subarrays\obj\Debug\net9.0\ref\LC1248.dll
