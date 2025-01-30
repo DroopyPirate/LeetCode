@@ -1,0 +1,15 @@
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-206 Reverse Linked List\bin\Debug\net9.0\LC206.exe
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-206 Reverse Linked List\bin\Debug\net9.0\LC206.deps.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-206 Reverse Linked List\bin\Debug\net9.0\LC206.runtimeconfig.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-206 Reverse Linked List\bin\Debug\net9.0\LC206.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-206 Reverse Linked List\bin\Debug\net9.0\LC206.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-206 Reverse Linked List\obj\Debug\net9.0\LC206.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-206 Reverse Linked List\obj\Debug\net9.0\LC206.AssemblyInfoInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-206 Reverse Linked List\obj\Debug\net9.0\LC206.AssemblyInfo.cs
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-206 Reverse Linked List\obj\Debug\net9.0\LC206.csproj.CoreCompileInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-206 Reverse Linked List\obj\Debug\net9.0\LC206.sourcelink.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-206 Reverse Linked List\obj\Debug\net9.0\LC206.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-206 Reverse Linked List\obj\Debug\net9.0\refint\LC206.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-206 Reverse Linked List\obj\Debug\net9.0\LC206.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-206 Reverse Linked List\obj\Debug\net9.0\LC206.genruntimeconfig.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-206 Reverse Linked List\obj\Debug\net9.0\ref\LC206.dll
