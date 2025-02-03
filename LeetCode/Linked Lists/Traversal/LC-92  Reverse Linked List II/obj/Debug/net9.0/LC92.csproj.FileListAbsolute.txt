@@ -1,0 +1,15 @@
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-92  Reverse Linked List II\bin\Debug\net9.0\LC92.exe
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-92  Reverse Linked List II\bin\Debug\net9.0\LC92.deps.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-92  Reverse Linked List II\bin\Debug\net9.0\LC92.runtimeconfig.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-92  Reverse Linked List II\bin\Debug\net9.0\LC92.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-92  Reverse Linked List II\bin\Debug\net9.0\LC92.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-92  Reverse Linked List II\obj\Debug\net9.0\LC92.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-92  Reverse Linked List II\obj\Debug\net9.0\LC92.AssemblyInfoInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-92  Reverse Linked List II\obj\Debug\net9.0\LC92.AssemblyInfo.cs
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-92  Reverse Linked List II\obj\Debug\net9.0\LC92.csproj.CoreCompileInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-92  Reverse Linked List II\obj\Debug\net9.0\LC92.sourcelink.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-92  Reverse Linked List II\obj\Debug\net9.0\LC92.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-92  Reverse Linked List II\obj\Debug\net9.0\refint\LC92.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-92  Reverse Linked List II\obj\Debug\net9.0\LC92.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-92  Reverse Linked List II\obj\Debug\net9.0\LC92.genruntimeconfig.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-92  Reverse Linked List II\obj\Debug\net9.0\ref\LC92.dll
