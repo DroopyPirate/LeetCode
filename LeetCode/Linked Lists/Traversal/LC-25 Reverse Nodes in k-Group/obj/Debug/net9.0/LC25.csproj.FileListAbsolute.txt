@@ -1,0 +1,15 @@
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-25 Reverse Nodes in k-Group\bin\Debug\net9.0\LC25.exe
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-25 Reverse Nodes in k-Group\bin\Debug\net9.0\LC25.deps.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-25 Reverse Nodes in k-Group\bin\Debug\net9.0\LC25.runtimeconfig.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-25 Reverse Nodes in k-Group\bin\Debug\net9.0\LC25.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-25 Reverse Nodes in k-Group\bin\Debug\net9.0\LC25.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-25 Reverse Nodes in k-Group\obj\Debug\net9.0\LC25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-25 Reverse Nodes in k-Group\obj\Debug\net9.0\LC25.AssemblyInfoInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-25 Reverse Nodes in k-Group\obj\Debug\net9.0\LC25.AssemblyInfo.cs
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-25 Reverse Nodes in k-Group\obj\Debug\net9.0\LC25.csproj.CoreCompileInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-25 Reverse Nodes in k-Group\obj\Debug\net9.0\LC25.sourcelink.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-25 Reverse Nodes in k-Group\obj\Debug\net9.0\LC25.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-25 Reverse Nodes in k-Group\obj\Debug\net9.0\refint\LC25.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-25 Reverse Nodes in k-Group\obj\Debug\net9.0\LC25.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-25 Reverse Nodes in k-Group\obj\Debug\net9.0\LC25.genruntimeconfig.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Traversal\LC-25 Reverse Nodes in k-Group\obj\Debug\net9.0\ref\LC25.dll
