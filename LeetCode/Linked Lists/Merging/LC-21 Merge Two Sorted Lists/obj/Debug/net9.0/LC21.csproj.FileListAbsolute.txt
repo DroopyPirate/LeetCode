@@ -1,0 +1,15 @@
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Merging\LC-21 Merge Two Sorted Lists\bin\Debug\net9.0\LC21.exe
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Merging\LC-21 Merge Two Sorted Lists\bin\Debug\net9.0\LC21.deps.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Merging\LC-21 Merge Two Sorted Lists\bin\Debug\net9.0\LC21.runtimeconfig.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Merging\LC-21 Merge Two Sorted Lists\bin\Debug\net9.0\LC21.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Merging\LC-21 Merge Two Sorted Lists\bin\Debug\net9.0\LC21.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Merging\LC-21 Merge Two Sorted Lists\obj\Debug\net9.0\LC21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Merging\LC-21 Merge Two Sorted Lists\obj\Debug\net9.0\LC21.AssemblyInfoInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Merging\LC-21 Merge Two Sorted Lists\obj\Debug\net9.0\LC21.AssemblyInfo.cs
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Merging\LC-21 Merge Two Sorted Lists\obj\Debug\net9.0\LC21.csproj.CoreCompileInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Merging\LC-21 Merge Two Sorted Lists\obj\Debug\net9.0\LC21.sourcelink.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Merging\LC-21 Merge Two Sorted Lists\obj\Debug\net9.0\LC21.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Merging\LC-21 Merge Two Sorted Lists\obj\Debug\net9.0\refint\LC21.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Merging\LC-21 Merge Two Sorted Lists\obj\Debug\net9.0\LC21.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Merging\LC-21 Merge Two Sorted Lists\obj\Debug\net9.0\LC21.genruntimeconfig.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Linked Lists\Merging\LC-21 Merge Two Sorted Lists\obj\Debug\net9.0\ref\LC21.dll
