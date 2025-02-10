@@ -1,0 +1,15 @@
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-20 Valid Parantheses\bin\Debug\net9.0\LC20.exe
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-20 Valid Parantheses\bin\Debug\net9.0\LC20.deps.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-20 Valid Parantheses\bin\Debug\net9.0\LC20.runtimeconfig.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-20 Valid Parantheses\bin\Debug\net9.0\LC20.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-20 Valid Parantheses\bin\Debug\net9.0\LC20.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-20 Valid Parantheses\obj\Debug\net9.0\LC20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-20 Valid Parantheses\obj\Debug\net9.0\LC20.AssemblyInfoInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-20 Valid Parantheses\obj\Debug\net9.0\LC20.AssemblyInfo.cs
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-20 Valid Parantheses\obj\Debug\net9.0\LC20.csproj.CoreCompileInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-20 Valid Parantheses\obj\Debug\net9.0\LC20.sourcelink.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-20 Valid Parantheses\obj\Debug\net9.0\LC20.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-20 Valid Parantheses\obj\Debug\net9.0\refint\LC20.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-20 Valid Parantheses\obj\Debug\net9.0\LC20.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-20 Valid Parantheses\obj\Debug\net9.0\LC20.genruntimeconfig.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-20 Valid Parantheses\obj\Debug\net9.0\ref\LC20.dll
