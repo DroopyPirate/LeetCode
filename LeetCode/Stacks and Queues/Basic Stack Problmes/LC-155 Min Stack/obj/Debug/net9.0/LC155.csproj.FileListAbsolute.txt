@@ -1,0 +1,15 @@
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-155 Min Stack\bin\Debug\net9.0\LC155.exe
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-155 Min Stack\bin\Debug\net9.0\LC155.deps.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-155 Min Stack\bin\Debug\net9.0\LC155.runtimeconfig.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-155 Min Stack\bin\Debug\net9.0\LC155.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-155 Min Stack\bin\Debug\net9.0\LC155.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-155 Min Stack\obj\Debug\net9.0\LC155.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-155 Min Stack\obj\Debug\net9.0\LC155.AssemblyInfoInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-155 Min Stack\obj\Debug\net9.0\LC155.AssemblyInfo.cs
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-155 Min Stack\obj\Debug\net9.0\LC155.csproj.CoreCompileInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-155 Min Stack\obj\Debug\net9.0\LC155.sourcelink.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-155 Min Stack\obj\Debug\net9.0\LC155.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-155 Min Stack\obj\Debug\net9.0\refint\LC155.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-155 Min Stack\obj\Debug\net9.0\LC155.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-155 Min Stack\obj\Debug\net9.0\LC155.genruntimeconfig.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-155 Min Stack\obj\Debug\net9.0\ref\LC155.dll
