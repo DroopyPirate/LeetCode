@@ -1,0 +1,15 @@
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-739 Daily Temperatures\bin\Debug\net9.0\LC739.exe
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-739 Daily Temperatures\bin\Debug\net9.0\LC739.deps.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-739 Daily Temperatures\bin\Debug\net9.0\LC739.runtimeconfig.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-739 Daily Temperatures\bin\Debug\net9.0\LC739.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-739 Daily Temperatures\bin\Debug\net9.0\LC739.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-739 Daily Temperatures\obj\Debug\net9.0\LC739.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-739 Daily Temperatures\obj\Debug\net9.0\LC739.AssemblyInfoInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-739 Daily Temperatures\obj\Debug\net9.0\LC739.AssemblyInfo.cs
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-739 Daily Temperatures\obj\Debug\net9.0\LC739.csproj.CoreCompileInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-739 Daily Temperatures\obj\Debug\net9.0\LC739.sourcelink.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-739 Daily Temperatures\obj\Debug\net9.0\LC739.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-739 Daily Temperatures\obj\Debug\net9.0\refint\LC739.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-739 Daily Temperatures\obj\Debug\net9.0\LC739.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-739 Daily Temperatures\obj\Debug\net9.0\LC739.genruntimeconfig.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-739 Daily Temperatures\obj\Debug\net9.0\ref\LC739.dll
