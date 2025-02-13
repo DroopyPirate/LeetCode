@@ -1,0 +1,15 @@
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-150 Evaluate Reverse Polish Notation\bin\Debug\net9.0\LC150.exe
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-150 Evaluate Reverse Polish Notation\bin\Debug\net9.0\LC150.deps.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-150 Evaluate Reverse Polish Notation\bin\Debug\net9.0\LC150.runtimeconfig.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-150 Evaluate Reverse Polish Notation\bin\Debug\net9.0\LC150.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-150 Evaluate Reverse Polish Notation\bin\Debug\net9.0\LC150.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-150 Evaluate Reverse Polish Notation\obj\Debug\net9.0\LC150.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-150 Evaluate Reverse Polish Notation\obj\Debug\net9.0\LC150.AssemblyInfoInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-150 Evaluate Reverse Polish Notation\obj\Debug\net9.0\LC150.AssemblyInfo.cs
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-150 Evaluate Reverse Polish Notation\obj\Debug\net9.0\LC150.csproj.CoreCompileInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-150 Evaluate Reverse Polish Notation\obj\Debug\net9.0\LC150.sourcelink.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-150 Evaluate Reverse Polish Notation\obj\Debug\net9.0\LC150.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-150 Evaluate Reverse Polish Notation\obj\Debug\net9.0\refint\LC150.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-150 Evaluate Reverse Polish Notation\obj\Debug\net9.0\LC150.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-150 Evaluate Reverse Polish Notation\obj\Debug\net9.0\LC150.genruntimeconfig.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-150 Evaluate Reverse Polish Notation\obj\Debug\net9.0\ref\LC150.dll
