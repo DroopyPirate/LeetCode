@@ -1,0 +1,15 @@
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-225 Implement Stack using Queues\bin\Debug\net9.0\LC225.exe
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-225 Implement Stack using Queues\bin\Debug\net9.0\LC225.deps.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-225 Implement Stack using Queues\bin\Debug\net9.0\LC225.runtimeconfig.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-225 Implement Stack using Queues\bin\Debug\net9.0\LC225.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-225 Implement Stack using Queues\bin\Debug\net9.0\LC225.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-225 Implement Stack using Queues\obj\Debug\net9.0\LC225.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-225 Implement Stack using Queues\obj\Debug\net9.0\LC225.AssemblyInfoInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-225 Implement Stack using Queues\obj\Debug\net9.0\LC225.AssemblyInfo.cs
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-225 Implement Stack using Queues\obj\Debug\net9.0\LC225.csproj.CoreCompileInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-225 Implement Stack using Queues\obj\Debug\net9.0\LC225.sourcelink.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-225 Implement Stack using Queues\obj\Debug\net9.0\LC225.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-225 Implement Stack using Queues\obj\Debug\net9.0\refint\LC225.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-225 Implement Stack using Queues\obj\Debug\net9.0\LC225.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-225 Implement Stack using Queues\obj\Debug\net9.0\LC225.genruntimeconfig.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-225 Implement Stack using Queues\obj\Debug\net9.0\ref\LC225.dll
