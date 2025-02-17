@@ -1,0 +1,15 @@
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-232 Implement Queue Using Stacks\bin\Debug\net9.0\LC232.exe
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-232 Implement Queue Using Stacks\bin\Debug\net9.0\LC232.deps.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-232 Implement Queue Using Stacks\bin\Debug\net9.0\LC232.runtimeconfig.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-232 Implement Queue Using Stacks\bin\Debug\net9.0\LC232.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-232 Implement Queue Using Stacks\bin\Debug\net9.0\LC232.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-232 Implement Queue Using Stacks\obj\Debug\net9.0\LC232.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-232 Implement Queue Using Stacks\obj\Debug\net9.0\LC232.AssemblyInfoInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-232 Implement Queue Using Stacks\obj\Debug\net9.0\LC232.AssemblyInfo.cs
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-232 Implement Queue Using Stacks\obj\Debug\net9.0\LC232.csproj.CoreCompileInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-232 Implement Queue Using Stacks\obj\Debug\net9.0\LC232.sourcelink.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-232 Implement Queue Using Stacks\obj\Debug\net9.0\LC232.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-232 Implement Queue Using Stacks\obj\Debug\net9.0\refint\LC232.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-232 Implement Queue Using Stacks\obj\Debug\net9.0\LC232.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-232 Implement Queue Using Stacks\obj\Debug\net9.0\LC232.genruntimeconfig.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-232 Implement Queue Using Stacks\obj\Debug\net9.0\ref\LC232.dll
