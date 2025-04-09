@@ -1,0 +1,15 @@
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-56 Merge Intervals\bin\Debug\net9.0\LC56.exe
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-56 Merge Intervals\bin\Debug\net9.0\LC56.deps.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-56 Merge Intervals\bin\Debug\net9.0\LC56.runtimeconfig.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-56 Merge Intervals\bin\Debug\net9.0\LC56.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-56 Merge Intervals\bin\Debug\net9.0\LC56.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-56 Merge Intervals\obj\Debug\net9.0\LC56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-56 Merge Intervals\obj\Debug\net9.0\LC56.AssemblyInfoInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-56 Merge Intervals\obj\Debug\net9.0\LC56.AssemblyInfo.cs
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-56 Merge Intervals\obj\Debug\net9.0\LC56.csproj.CoreCompileInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-56 Merge Intervals\obj\Debug\net9.0\LC56.sourcelink.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-56 Merge Intervals\obj\Debug\net9.0\LC56.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-56 Merge Intervals\obj\Debug\net9.0\refint\LC56.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-56 Merge Intervals\obj\Debug\net9.0\LC56.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-56 Merge Intervals\obj\Debug\net9.0\LC56.genruntimeconfig.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-56 Merge Intervals\obj\Debug\net9.0\ref\LC56.dll
