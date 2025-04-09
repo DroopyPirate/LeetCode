@@ -1,0 +1,15 @@
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Dynamic Programming\LC-746 Min Cost Climbing Stairs\bin\Debug\net9.0\LC746.exe
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Dynamic Programming\LC-746 Min Cost Climbing Stairs\bin\Debug\net9.0\LC746.deps.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Dynamic Programming\LC-746 Min Cost Climbing Stairs\bin\Debug\net9.0\LC746.runtimeconfig.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Dynamic Programming\LC-746 Min Cost Climbing Stairs\bin\Debug\net9.0\LC746.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Dynamic Programming\LC-746 Min Cost Climbing Stairs\bin\Debug\net9.0\LC746.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Dynamic Programming\LC-746 Min Cost Climbing Stairs\obj\Debug\net9.0\LC746.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Dynamic Programming\LC-746 Min Cost Climbing Stairs\obj\Debug\net9.0\LC746.AssemblyInfoInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Dynamic Programming\LC-746 Min Cost Climbing Stairs\obj\Debug\net9.0\LC746.AssemblyInfo.cs
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Dynamic Programming\LC-746 Min Cost Climbing Stairs\obj\Debug\net9.0\LC746.csproj.CoreCompileInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Dynamic Programming\LC-746 Min Cost Climbing Stairs\obj\Debug\net9.0\LC746.sourcelink.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Dynamic Programming\LC-746 Min Cost Climbing Stairs\obj\Debug\net9.0\LC746.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Dynamic Programming\LC-746 Min Cost Climbing Stairs\obj\Debug\net9.0\refint\LC746.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Dynamic Programming\LC-746 Min Cost Climbing Stairs\obj\Debug\net9.0\LC746.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Dynamic Programming\LC-746 Min Cost Climbing Stairs\obj\Debug\net9.0\LC746.genruntimeconfig.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Dynamic Programming\LC-746 Min Cost Climbing Stairs\obj\Debug\net9.0\ref\LC746.dll
