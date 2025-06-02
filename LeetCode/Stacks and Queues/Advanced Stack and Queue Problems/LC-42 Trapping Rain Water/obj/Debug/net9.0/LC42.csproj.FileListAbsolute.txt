@@ -1,0 +1,15 @@
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Advanced Stack and Queue Problems\LC-42 Trapping Rain Water\LC42\bin\Debug\net9.0\LC42.exe
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Advanced Stack and Queue Problems\LC-42 Trapping Rain Water\LC42\bin\Debug\net9.0\LC42.deps.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Advanced Stack and Queue Problems\LC-42 Trapping Rain Water\LC42\bin\Debug\net9.0\LC42.runtimeconfig.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Advanced Stack and Queue Problems\LC-42 Trapping Rain Water\LC42\bin\Debug\net9.0\LC42.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Advanced Stack and Queue Problems\LC-42 Trapping Rain Water\LC42\bin\Debug\net9.0\LC42.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Advanced Stack and Queue Problems\LC-42 Trapping Rain Water\LC42\obj\Debug\net9.0\LC42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Advanced Stack and Queue Problems\LC-42 Trapping Rain Water\LC42\obj\Debug\net9.0\LC42.AssemblyInfoInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Advanced Stack and Queue Problems\LC-42 Trapping Rain Water\LC42\obj\Debug\net9.0\LC42.AssemblyInfo.cs
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Advanced Stack and Queue Problems\LC-42 Trapping Rain Water\LC42\obj\Debug\net9.0\LC42.csproj.CoreCompileInputs.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Advanced Stack and Queue Problems\LC-42 Trapping Rain Water\LC42\obj\Debug\net9.0\LC42.sourcelink.json
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Advanced Stack and Queue Problems\LC-42 Trapping Rain Water\LC42\obj\Debug\net9.0\LC42.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Advanced Stack and Queue Problems\LC-42 Trapping Rain Water\LC42\obj\Debug\net9.0\refint\LC42.dll
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Advanced Stack and Queue Problems\LC-42 Trapping Rain Water\LC42\obj\Debug\net9.0\LC42.pdb
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Advanced Stack and Queue Problems\LC-42 Trapping Rain Water\LC42\obj\Debug\net9.0\LC42.genruntimeconfig.cache
+C:\Users\pritv\OneDrive\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Advanced Stack and Queue Problems\LC-42 Trapping Rain Water\LC42\obj\Debug\net9.0\ref\LC42.dll
