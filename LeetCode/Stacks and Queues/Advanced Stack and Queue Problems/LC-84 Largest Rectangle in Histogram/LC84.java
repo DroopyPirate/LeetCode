@@ -33,3 +33,32 @@ class LC84 {
         System.out.println(largestRectangleArea(heights)); // Output: 10
     }
 }
+
+/*
+
+215623
+012345
+
+
+// poped = 2, maxArea = 2, maxArea = 6, maxArea = 10
+
+poped = 2, maxArea = (2, 0)
+poped = 6 maxArea = (6, 2)
+poped = 5 maxArea = (10, 6)
+
+
+      6       3
+    5 5 5   2 2
+2 1 1 1 1 1 1 1
+
+
+remaining stack
+
+poped = 3, maxArea = (10, 3),
+poped = 2, maxArea = (10, 8),
+poped = 1, maxArea = (10, 6)
+
+2
+1 1
+
+ */
