@@ -1,0 +1,15 @@
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-27 Remove Element\LC27\bin\Debug\net9.0\LC27.exe
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-27 Remove Element\LC27\bin\Debug\net9.0\LC27.deps.json
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-27 Remove Element\LC27\bin\Debug\net9.0\LC27.runtimeconfig.json
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-27 Remove Element\LC27\bin\Debug\net9.0\LC27.dll
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-27 Remove Element\LC27\bin\Debug\net9.0\LC27.pdb
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-27 Remove Element\LC27\obj\Debug\net9.0\LC27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-27 Remove Element\LC27\obj\Debug\net9.0\LC27.AssemblyInfoInputs.cache
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-27 Remove Element\LC27\obj\Debug\net9.0\LC27.AssemblyInfo.cs
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-27 Remove Element\LC27\obj\Debug\net9.0\LC27.csproj.CoreCompileInputs.cache
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-27 Remove Element\LC27\obj\Debug\net9.0\LC27.sourcelink.json
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-27 Remove Element\LC27\obj\Debug\net9.0\LC27.dll
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-27 Remove Element\LC27\obj\Debug\net9.0\refint\LC27.dll
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-27 Remove Element\LC27\obj\Debug\net9.0\LC27.pdb
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-27 Remove Element\LC27\obj\Debug\net9.0\LC27.genruntimeconfig.cache
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Two_Pointer\LC-27 Remove Element\LC27\obj\Debug\net9.0\ref\LC27.dll
