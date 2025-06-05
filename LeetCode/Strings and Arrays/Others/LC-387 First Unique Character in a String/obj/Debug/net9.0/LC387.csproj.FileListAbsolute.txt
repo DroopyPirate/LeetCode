@@ -1,0 +1,15 @@
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-387 First Unique Character in a String\LC387\bin\Debug\net9.0\LC387.exe
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-387 First Unique Character in a String\LC387\bin\Debug\net9.0\LC387.deps.json
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-387 First Unique Character in a String\LC387\bin\Debug\net9.0\LC387.runtimeconfig.json
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-387 First Unique Character in a String\LC387\bin\Debug\net9.0\LC387.dll
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-387 First Unique Character in a String\LC387\bin\Debug\net9.0\LC387.pdb
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-387 First Unique Character in a String\LC387\obj\Debug\net9.0\LC387.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-387 First Unique Character in a String\LC387\obj\Debug\net9.0\LC387.AssemblyInfoInputs.cache
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-387 First Unique Character in a String\LC387\obj\Debug\net9.0\LC387.AssemblyInfo.cs
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-387 First Unique Character in a String\LC387\obj\Debug\net9.0\LC387.csproj.CoreCompileInputs.cache
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-387 First Unique Character in a String\LC387\obj\Debug\net9.0\LC387.sourcelink.json
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-387 First Unique Character in a String\LC387\obj\Debug\net9.0\LC387.dll
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-387 First Unique Character in a String\LC387\obj\Debug\net9.0\refint\LC387.dll
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-387 First Unique Character in a String\LC387\obj\Debug\net9.0\LC387.pdb
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-387 First Unique Character in a String\LC387\obj\Debug\net9.0\LC387.genruntimeconfig.cache
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Strings and Arrays\Others\LC-387 First Unique Character in a String\LC387\obj\Debug\net9.0\ref\LC387.dll
