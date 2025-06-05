@@ -1,0 +1,15 @@
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-622 Design Circular Queue\LC622\bin\Debug\net9.0\LC622.exe
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-622 Design Circular Queue\LC622\bin\Debug\net9.0\LC622.deps.json
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-622 Design Circular Queue\LC622\bin\Debug\net9.0\LC622.runtimeconfig.json
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-622 Design Circular Queue\LC622\bin\Debug\net9.0\LC622.dll
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-622 Design Circular Queue\LC622\bin\Debug\net9.0\LC622.pdb
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-622 Design Circular Queue\LC622\obj\Debug\net9.0\LC622.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-622 Design Circular Queue\LC622\obj\Debug\net9.0\LC622.AssemblyInfoInputs.cache
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-622 Design Circular Queue\LC622\obj\Debug\net9.0\LC622.AssemblyInfo.cs
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-622 Design Circular Queue\LC622\obj\Debug\net9.0\LC622.csproj.CoreCompileInputs.cache
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-622 Design Circular Queue\LC622\obj\Debug\net9.0\LC622.sourcelink.json
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-622 Design Circular Queue\LC622\obj\Debug\net9.0\LC622.dll
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-622 Design Circular Queue\LC622\obj\Debug\net9.0\refint\LC622.dll
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-622 Design Circular Queue\LC622\obj\Debug\net9.0\LC622.pdb
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-622 Design Circular Queue\LC622\obj\Debug\net9.0\LC622.genruntimeconfig.cache
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Queue Problems\LC-622 Design Circular Queue\LC622\obj\Debug\net9.0\ref\LC622.dll
