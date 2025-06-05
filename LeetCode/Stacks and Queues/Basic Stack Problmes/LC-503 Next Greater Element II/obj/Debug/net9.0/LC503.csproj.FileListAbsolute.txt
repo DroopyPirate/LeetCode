@@ -1,0 +1,15 @@
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-503 Next Greater Element II\LC503\bin\Debug\net9.0\LC503.exe
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-503 Next Greater Element II\LC503\bin\Debug\net9.0\LC503.deps.json
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-503 Next Greater Element II\LC503\bin\Debug\net9.0\LC503.runtimeconfig.json
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-503 Next Greater Element II\LC503\bin\Debug\net9.0\LC503.dll
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-503 Next Greater Element II\LC503\bin\Debug\net9.0\LC503.pdb
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-503 Next Greater Element II\LC503\obj\Debug\net9.0\LC503.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-503 Next Greater Element II\LC503\obj\Debug\net9.0\LC503.AssemblyInfoInputs.cache
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-503 Next Greater Element II\LC503\obj\Debug\net9.0\LC503.AssemblyInfo.cs
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-503 Next Greater Element II\LC503\obj\Debug\net9.0\LC503.csproj.CoreCompileInputs.cache
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-503 Next Greater Element II\LC503\obj\Debug\net9.0\LC503.sourcelink.json
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-503 Next Greater Element II\LC503\obj\Debug\net9.0\LC503.dll
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-503 Next Greater Element II\LC503\obj\Debug\net9.0\refint\LC503.dll
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-503 Next Greater Element II\LC503\obj\Debug\net9.0\LC503.pdb
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-503 Next Greater Element II\LC503\obj\Debug\net9.0\LC503.genruntimeconfig.cache
+C:\Users\pritv\Documents\Prit\GitHub\LeetCode\LeetCode\Stacks and Queues\Basic Stack Problmes\LC-503 Next Greater Element II\LC503\obj\Debug\net9.0\ref\LC503.dll
